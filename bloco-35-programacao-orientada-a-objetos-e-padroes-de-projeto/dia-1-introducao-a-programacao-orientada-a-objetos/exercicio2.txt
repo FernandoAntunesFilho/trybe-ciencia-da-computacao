@@ -1,0 +1,13 @@
+Exercício 2: Para exercitar nossa capacidade de abstração, vamos modelar
+algumas partes de um software de geometria. Como poderíamos modelar um objeto retângulo?
+
+Nome da abstração
+Retangulo
+
+atributos/estados
+- largura (tamanho)
+- altura (tamanho)
+
+comportamentos
+- calcular area (altura * largura)
+- calcular perímetro ((altura + largura) * 2)
