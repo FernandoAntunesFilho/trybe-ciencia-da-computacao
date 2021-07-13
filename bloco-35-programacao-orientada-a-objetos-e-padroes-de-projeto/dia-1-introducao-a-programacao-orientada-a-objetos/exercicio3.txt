@@ -1,0 +1,13 @@
+Exercício 3: E como poderíamos definir um círculo?
+Qual seu nome, atributos e comportamentos?
+
+Nome da abstração
+Circulo
+
+atributos/estados
+- raio (tamanho)
+
+comportamentos
+- calcular area (3.14 * raio^2)
+- calcular perímetro (2 * 3.14 * raio)
+- calcular diametro (2 * raio)
